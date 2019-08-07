@@ -1,6 +1,6 @@
 # UplabsMeditationApp - Flutter UI Challenge
 
-> Meditation App (Medity)
+Meditation App (Medity)
 
 - Dive deep into the meditation world.
 - It is very fun and easy to use this app.
