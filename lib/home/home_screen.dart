@@ -134,9 +134,7 @@ class HomeScreen extends StatelessWidget {
                         Hero(
                           tag: title,
                           child: DefaultTextStyle(
-                            child: Text(
-                              title,
-                            ),
+                            child: Text(title),
                             style: TextStyle(fontWeight: FontWeight.bold, fontSize: 22),
                           ),
                         ),

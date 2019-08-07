@@ -1,16 +1,21 @@
-# uplabs_meditation_app
+# UplabsMeditationApp - Flutter UI Challenge
 
-A new Flutter project.
+Meditation App (Medity)
 
-## Getting Started
+Dive deep into the meditation world.
+It is very fun and easy to use this app.
+Bright and vivid gradients are used to make it enjoyable.
+Choose from hundreds of courses created by professionals.
+Be disciplined and consistent and feel the changes inside you. :)
 
-This project is a starting point for a Flutter application.
+Design by: [Ankit Rawat](https://www.uplabs.com/insanitywanted)
 
-A few resources to get you started if this is your first Flutter project:
+Download: [UplabsMeditationApp](example/UplabMeditationApp.apk)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](example/images/1.png)
+![](example/images/2.png)
+![](example/images/3.png)
+![](example/images/4.png)
+![](example/images/5.png)

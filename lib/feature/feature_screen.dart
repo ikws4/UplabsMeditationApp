@@ -7,7 +7,7 @@ class FeatureScreen extends StatefulWidget {
   _FeatureScreenState createState() => _FeatureScreenState();
 }
 
-class _FeatureScreenState extends State<FeatureScreen> {
+class _FeatureScreenState extends State<FeatureScreen> with TickerProviderStateMixin {
   bool _isDownload = false;
 
   @override
@@ -63,7 +63,7 @@ class _FeatureScreenState extends State<FeatureScreen> {
           Hero(
             tag: args.title,
             child: DefaultTextStyle(
-              child: Text(args.title),
+              child: Text(args.title + ' '),
               style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
             ),
           ),
@@ -71,14 +71,14 @@ class _FeatureScreenState extends State<FeatureScreen> {
           Hero(
             tag: args.subTitle,
             child: DefaultTextStyle(
-              child: Text(args.subTitle),
+              child: Text(args.subTitle + ' '),
               style: TextStyle(fontSize: 12),
             ),
           ),
-          SizedBox(height: 8),
+          SizedBox(height: 16),
           Text(
             "Is there room for a little more joy in your day? Lots of people say that just thinking about what they're grateful for makes them feel happier and less anxious. On this walk, find a new sense of gratitude by reflecting on the people and things you appreciate.",
-            style: TextStyle(fontSize: 14),
+            style: TextStyle(fontSize: 14, color: Colors.white.withOpacity(0.8)),
           ),
         ],
       ),
