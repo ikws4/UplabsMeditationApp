@@ -1,12 +1,12 @@
 # UplabsMeditationApp - Flutter UI Challenge
 
-Meditation App (Medity)
+> Meditation App (Medity)
 
-Dive deep into the meditation world.
-It is very fun and easy to use this app.
-Bright and vivid gradients are used to make it enjoyable.
-Choose from hundreds of courses created by professionals.
-Be disciplined and consistent and feel the changes inside you. :)
+- Dive deep into the meditation world.
+- It is very fun and easy to use this app.
+- Bright and vivid gradients are used to make it enjoyable.
+- Choose from hundreds of courses created by professionals.
+- Be disciplined and consistent and feel the changes inside you. :)
 
 Design by: [Ankit Rawat](https://www.uplabs.com/insanitywanted)
 
